@@ -1,4 +1,4 @@
-# Twitter-US-Airline-Sentiment-Analysis
+# Airline-Passenger-Satisfaction-ML-Project
 
 ## Project Description:
 In today's dynamic business landscape, understanding and adapting to changing customer sentiments is crucial for sustained success. This project aims to harness the power of sentiment analysis using Twitter to gather valuable insights for airlines. By tracking customer sentiment during various scenarios, such as new product launches or pricing adjustments, airlines can enhance their products, services, and customer support strategies.
