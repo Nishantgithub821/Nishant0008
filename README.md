@@ -1,8 +1,7 @@
 # Airline-Passenger-Satisfaction-ML-Project
 
-## Project Description:
-In today's dynamic business landscape, understanding and adapting to changing customer sentiments is crucial for sustained success. This project aims to harness the power of sentiment analysis using Twitter to gather valuable insights for airlines. By tracking customer sentiment during various scenarios, such as new product launches or pricing adjustments, airlines can enhance their products, services, and customer support strategies.
+## Project Overview:
+The goal of this project is to develop a machine learning model that predicts passenger satisfaction based on various features and attributes related to airline services. We will explore, preprocess, visualize, and analyze the dataset before training and evaluating multiple machine learning models. This project is a practical demonstration of applying data science and machine learning techniques to solve a real-world problem in the airline industry.
 
-Twitter's nature as a platform for quick and frequent communication makes it an ideal source to gauge customer sentiment. This project will focus on employing sentiment analysis techniques to monitor and analyze tweets related to different airlines. By identifying positive, negative, and neutral sentiments, we can uncover what customers appreciate or dislike about each airline's offerings.
-
-The primary focus of this project will be to analyze sentiment related to various airlines, drawing insights from the Twitter data to drive actionable strategies. By harnessing the power of sentiment analysis, this project will provide airlines with a powerful tool to enhance customer satisfaction, refine products and services, and establish more effective customer support mechanisms.
+## Dataset
+We will be using the "Airline Passenger Satisfaction" dataset, which contains information about various factors influencing passenger satisfaction, such as flight distance, inflight entertainment, onboard service, and more. The dataset is provided in CSV format and is located in the data directory.
