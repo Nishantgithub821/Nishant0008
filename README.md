@@ -1,4 +1,4 @@
-# Airline-Passenger-Satisfaction-with-Machine-Learning Ongoing
+# Airline-Passenger-Satisfaction-with-Machine-Learning
 
 ## Project Overview:
 The goal of this project is to develop a machine-learning model that predicts passenger satisfaction based on various features and attributes related to airline services. We will explore, preprocess, visualize, and analyze the dataset before training and evaluating multiple machine-learning models. This project is a practical demonstration of applying data science and machine learning techniques to solve real-world problems in the airline industry.
