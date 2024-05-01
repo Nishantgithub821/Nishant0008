@@ -1,4 +1,4 @@
-# Airline Passenger Satisfaction Machine Learning Project
+# Customer Satisfaction Analysis Project
 ![](https://github.com/praj2408/Airline-Passenger-Satisfaction-ML-Project/blob/main/docs/Happy-passenger.jpg)
 
 # Problem Analysis
